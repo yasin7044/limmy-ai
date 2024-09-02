@@ -10,7 +10,7 @@
     </div>
     <div class="flex g-10">
       <q-btn color="primary" :to="{ name: 'video.new' }">Create Video</q-btn>
-      <q-btn>Learn more</q-btn>
+      <q-btn href="https://github.com/yasin7044/limmy-ai">Learn more</q-btn>
     </div>
   </div>
 </template>
